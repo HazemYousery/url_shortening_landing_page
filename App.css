@@ -1,0 +1,131 @@
+.App{
+  text-align: center;
+margin: auto;
+padding: 30px;
+
+}
+.B{
+  text-align: center;
+  padding-right: 220px;
+} 
+.K{
+  text-align: center;
+
+}
+.A{
+  text-align: center;
+
+}
+
+.C{
+  padding-top: 50px;
+}
+.R{
+  text-align: center;
+
+  padding-left: 200px;
+padding-right: 200px;}
+  .L{
+    text-align: center;
+    padding-right: 185px;
+  }    
+    .S{
+      text-align: center;
+      padding-left: 200px;
+      padding-right: 200px;
+      }
+      .D{
+        text-align: center;
+
+        padding-left: 200px;
+        padding-right: 200px;
+             }
+
+
+
+
+
+.NM{
+  margin-bottom: 20px;
+}
+.BTN{
+margin-top: 20px; 
+
+
+}
+.h{
+padding: 10px;
+margin-left: auto;
+}
+.a{
+  padding: 10px;
+  margin-left: auto;
+  }
+  .z{
+    padding: 10px;
+    margin-left: auto;
+    }
+    .e{
+      padding: 10px;
+      margin-left: auto;
+      }
+      .m{
+        padding: 10px;
+        margin-left: auto;
+        }
+
+.img4{
+  width: 50%;
+}
+.cardx{
+  text-align: center;
+  width: 100%;
+ background-color: darkslateblue;
+}
+.cardy{
+
+  width: 100%;
+  background-color: ghostwhite;
+}
+.btnB{
+  color: green;
+
+}
+.card2{
+  margin-top:50px ;
+  color: darkblue;
+}
+.card3{
+  margin-top:100px ;
+  color: darkblue;
+
+}
+.card1{
+  color: darkblue;
+
+}
+.pas{
+  margin-left: -150px;
+
+}
+.par{
+margin-left: 550px;
+margin-top: 40px;
+}
+.searchBtn{
+background-color: #1e7e34;
+width: 100%;
+  height: 40px;
+
+}
+.hazem{
+background-color: #007bff;
+  height: 120px;
+}
+.searchBar{
+padding: 20px;
+position: initial;
+width: 100%;
+color: white;
+height: 40px;
+}
